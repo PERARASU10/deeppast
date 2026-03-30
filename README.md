@@ -1,11 +1,11 @@
 # Deep Past Initiative — Akkadian Machine Translation
 
-[![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation/overview)
-[![Kaggle Model](https://img.shields.io/badge/Kaggle-AkkaByte--GapFixed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/models/sudharsananh/akkabyte-gapfixed/PyTorch/default/1)
-[![publications_csv_mining](https://img.shields.io/badge/Kaggle-AkkaByte--GapFixed-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/perarasu2156/llm-cleaning?scriptVersionId=307612972)
-[![Train Notebook](https://img.shields.io/badge/Notebook-Training_v9-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/perarasu2156/trainingv9?scriptVersionId=307612313)
-[![Inference Notebook](https://img.shields.io/badge/Notebook-Inference_v9-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/perarasu2156/deeppast-inferencev9?scriptVersionId=307611672)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](LICENSE.txt)
+[![Kaggle Competition](https://img.shields.io/badge/Kaggle-Competition-orange?logo=kaggle)](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation/overview)
+[![Kaggle Model](https://img.shields.io/badge/Kaggle-AkkaByte--Model-blue?logo=kaggle)](https://www.kaggle.com/models/sudharsananh/akkabyte-gapfixed/PyTorch/default/1)
+[![Train Notebook](https://img.shields.io/badge/Notebook-Training_v9-brightgreen?logo=kaggle)](https://www.kaggle.com/code/perarasu2156/trainingv9?scriptVersionId=307612313)
+[![Inference Notebook](https://img.shields.io/badge/Notebook-Inference_v9-brightgreen?logo=kaggle)](https://www.kaggle.com/code/perarasu2156/deeppast-inferencev9?scriptVersionId=307611672)
+[![Publications Mining](https://img.shields.io/badge/Notebook-LLM_Cleaning-brightgreen?logo=kaggle)](https://www.kaggle.com/code/perarasu2156/llm-cleaning?scriptVersionId=307612972)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue)](LICENSE.txt)
 
 ---
 
